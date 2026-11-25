@@ -19,11 +19,6 @@ A Windows utility for backing up Mozilla Firefox profiles to 7-Zip archives, che
 
 The project emphasizes careful handling of backup data, archive verification, safe recovery, and honest documentation of limitations.
 
-## Contact
-
-- **Email:** [lebvmikhail@gmail.com](mailto:lebvmikhail@gmail.com)
-- **Telegram:** [@lebvmikhail](https://t.me/lebvmikhail)
-
 ## What I care about
 
 - Reliable automation and predictable failure handling
